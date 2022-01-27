@@ -1,5 +1,4 @@
- 👋 Hi, My name is Wesley Alexandre Cândido, live in Brazil.I am 21 years old, and I am Self-Taught in Programing.
-- 👀 I’m interested in Music, Anime and Programing
+ 👋 Hi, My name is Wesley Alexandre Cândido, live in Brazil.I am 21 years old, and I am Self-Taught in Programing.I love Music, Animes and Programing.
 - 🌱 I’m currently learning: Python
 - 📫 How to reach me: wesalexandrejob@gmail.com
 
